@@ -1,4 +1,4 @@
-# 🎓 Student AI Hub - 10 In-Class AI Tasks Web App
+# 🎓 SmartStudy-AI - 10 In-Class AI Tasks Web App
 
 A complete, modern, fast web application for students built with **React 19 + Vite + Tailwind CSS**, connected to the **Google Gemini AI API** (Free Tier) with a zero-config fallback generator.
 
