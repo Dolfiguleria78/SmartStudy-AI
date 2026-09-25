@@ -6,10 +6,10 @@ import jsPDF from 'jspdf';
 
 export default function Task1ResumeBuilder() {
   const [formData, setFormData] = useState({
-    name: 'Alex Morgan',
-    contact: 'alex.morgan@email.com | (555) 234-5678 | linkedin.com/in/alexmorgan',
+    name: 'Dolfi',
+    contact: 'dolfiguleria130@email.com | (555) 234-5678 | linkedin.com/in/alexmorgan',
     objective: 'Passionate Computer Science student seeking a software development internship to apply modern web technology skills and build scalable applications.',
-    education: 'B.S. in Computer Science - Tech University (2022 - 2026), GPA 3.8',
+    education: 'B.tech in Computer Science - Maharishi Markandeshwar Deemede To Be University (2022 - 2026), GPA 3.8',
     skills: 'JavaScript, React, HTML5, CSS3, Python, Node.js, Git, SQL, TailWind',
     experience: 'Web Dev Club Project Lead - Built open-source student portal app (2024)\nPeer Tutor - Helped 30+ students in Data Structures & Web Programming'
   });

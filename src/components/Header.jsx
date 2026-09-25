@@ -28,7 +28,7 @@ export default function Header() {
           </div>
           <div>
             <h1 className="text-xl font-bold text-slate-900 tracking-tight flex items-center gap-2">
-              Student AI Classroom Hub
+              SmartStudy AI
             </h1>
             <p className="text-xs text-slate-500 font-medium">10 AI Micro Apps for Classroom & Revision Tasks</p>
           </div>

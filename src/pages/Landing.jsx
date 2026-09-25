@@ -11,7 +11,7 @@ const Landing = () => {
       <div className="landing-hero position-relative overflow-hidden">
         <img src="/assets/images/hero-banner.png" alt="Hero Banner" className="hero-background" />
         <div className="hero-overlay d-flex flex-column justify-content-center align-items-center h-100">
-          <h1 className="display-3 fw-bold text-white mb-3">TripMate</h1>
+          <h1 className="display-3 fw-bold text-white mb-3">Ai-Resume</h1>
           <p className="lead text-white mb-5 w-75">
             Your smart travel companion for budget solutions, AI-powered trip planning, local guides, and travel companions.
           </p>
